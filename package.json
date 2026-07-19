@@ -1,0 +1,7 @@
+{
+  "name": "mea-gala-dinner-2026",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MEA Annual Gala Dinner 2026 static table booking page (email to book).",
+  "type": "module"
+}
